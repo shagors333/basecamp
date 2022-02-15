@@ -120,3 +120,8 @@ social_icons:
 # color: The background colour used in the plan name and call to action.
 # new_window: Open link in new window
 # -----
+
+# for github pages setup uncomment the code and set to your domain
+domain: https://shagors333.github.io/basecamp/      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://shagors333.github.io/basecamp/ # the base hostname and protocol for your site, e.g. http://example.com
+baseurl:       # place folder name if the site is served in a subfolder   
